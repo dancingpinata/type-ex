@@ -2,6 +2,42 @@
 
 
 /* Show Grid */
-.showgrid {
+/*.showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
+}*/
+
+/**********************
+FONTS
+**********************/
+
+h1 {
+	font-family: 'Frijole', sans-serif;
+	font-size: 3.5em;
+	color: #FF5826;
+}
+
+h3 {
+	font-family: 'Frijole', sans-serif;
+	color: #FF904E;
+}
+
+p{
+	font-family: 'Questrial', sans-serif;
+	background: #838383;
+	color: #fff;
+	padding: 5px;
+}
+
+
+/**********************
+IMAGES
+**********************/
+
+body {
+	background: url('../img/bg.png');
+}
+
+img {
+	width: 60%;
+	border: 6px solid #A98C7C;
 }
