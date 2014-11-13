@@ -12,8 +12,9 @@ FONTS
 
 h1 {
 	font-family: 'Frijole', sans-serif;
-	font-size: 3.5em;
+	font-size: 4em;
 	color: #FF5826;
+	float: left;
 }
 
 h3 {
@@ -34,10 +35,15 @@ IMAGES
 **********************/
 
 body {
-	background: url('../img/bg.png');
+	background: url('../img/tire2xbg.png');
 }
 
-img {
+.logo {
+	width: 20%;
+	margin: 10px 5px 20px 20px;
+}
+
+.truck {
 	width: 60%;
 	border: 6px solid #A98C7C;
 }
